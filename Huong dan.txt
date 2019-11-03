@@ -1,0 +1,8 @@
+Project da co chuc nang nang cao.
+Danh sach list book duoc luu trong file data.txt 
+
+Huong dan ung dung da co chuc nang nang cao
+Khi khoi chay ung dung.
+Chon case menu 9 de load du lieu tu file data.txt vao
+
+
